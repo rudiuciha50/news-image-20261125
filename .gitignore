@@ -1,0 +1,6 @@
+out/
+out2/
+out3/
+__pycache__/
+*.pyc
+*.tgz
